@@ -16,6 +16,10 @@ pip3 install lazier
 
 ## Demo
 
+Lazier being used in [real life](./softmax.html)  
+
+
+### Mini demo
 Without lazier:
 
 ```python
