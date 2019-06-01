@@ -16,7 +16,7 @@ pip3 install lazier
 
 ## Demo
 
-Lazier being used in [real life](./softmax.html)  
+Me using it in [real life](https://arjunbazinga.github.io/lazier/softmax)  
 
 
 ### Mini demo
